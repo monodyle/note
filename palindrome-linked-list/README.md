@@ -1,3 +1,10 @@
+---
+title: Palindrome linked list
+brief: Something
+image: slow-n-fast.png
+date: Apr 16, 2021
+---
+
 # Palindrome linked list [Easy]
 
 Problem: https://leetcode.com/problems/palindrome-linked-list/
