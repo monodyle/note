@@ -1,8 +1,8 @@
 ---
 title: Palindrome linked list
-brief: Something
+description: Something
 image: slow-n-fast.png
-date: Apr 16, 2021
+published: Apr 16, 2021
 ---
 
 # Palindrome linked list [Easy]
