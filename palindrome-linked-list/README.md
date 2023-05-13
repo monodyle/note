@@ -2,6 +2,7 @@
 title: Palindrome linked list
 description: Something
 image: slow-n-fast.png
+tags: [algorithm]
 published: Apr 16, 2021
 ---
 
