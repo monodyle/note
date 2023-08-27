@@ -26,5 +26,6 @@ But you can return any other type without any error (runtime or default linter s
 
 Firefox and Chromium/Node have a difference arguments order (reversed):
 
-![image](https://github.com/monodyle/note/assets/30283022/4edeac77-89ca-4026-af47-f616df5550c3)
+![image](https://github.com/monodyle/note/assets/30283022/152aed4e-04a1-4a0f-bf98-ce5558d686a2)
+
 Left is firefox console, right is edge console.
